@@ -4,5 +4,6 @@ document.getElementById("app").innerHTML = `
 <h1>Hello Again!</h1>
 <div>
   just wanted to say hi again !
+<p> paragraph </p>
 </div>
 `;
